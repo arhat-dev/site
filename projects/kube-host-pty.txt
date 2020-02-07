@@ -1,0 +1,16 @@
+kube-host-pty
+kube-host-pty/cmd
+kube-host-pty/cmd/kubectl-pty
+kube-host-pty/cmd/pty-client
+kube-host-pty/cmd/pty-device-plugin
+kube-host-pty/pkg/
+kube-host-pty/pkg/cmd
+kube-host-pty/pkg/cmd/kubectl-pty
+kube-host-pty/pkg/cmd/pty-client
+kube-host-pty/pkg/cmd/pty-device-plugin
+kube-host-pty/pkg/constant
+kube-host-pty/pkg/pty
+kube-host-pty/pkg/server
+kube-host-pty/pkg/util
+kube-host-pty/pkg/util/log
+kube-host-pty/pkg/version
