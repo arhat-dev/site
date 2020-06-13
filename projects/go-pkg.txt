@@ -1,9 +1,11 @@
 pkg/
 pkg/backoff
+pkg/confhelper
 pkg/encodehelper
 pkg/exechelper
 pkg/hashhelper
 pkg/iohelper
+pkg/kubehelper
 pkg/log
 pkg/patchhelper
 pkg/queue
