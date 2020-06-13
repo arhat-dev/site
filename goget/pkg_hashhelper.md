@@ -1,6 +1,6 @@
 ---
 package: pkg
-permalink: /pkg/encode
+permalink: /pkg/hashhelper
 layout: goget
 repo_name: go-pkg
 ---
