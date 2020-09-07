@@ -1,4 +1,4 @@
-pkg/
+pkg
 pkg/backoff
 pkg/confhelper
 pkg/encodehelper

@@ -1,0 +1,2 @@
+aranya-proto
+aranya-proto/gopb
