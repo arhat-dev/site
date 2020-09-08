@@ -1,6 +1,6 @@
 ---
 package: abbot-proto
-permalink: /abbot-proto/abbot-gopb
+permalink: /abbot-proto/abbotgopb
 layout: goget
 repo_name: abbot-proto
 ---
