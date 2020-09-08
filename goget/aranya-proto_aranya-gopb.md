@@ -1,6 +1,6 @@
 ---
 package: aranya-proto
-permalink: /aranya-proto/aranyagopb/aranyagoconst
+permalink: /aranya-proto/aranya-gopb
 layout: goget
 repo_name: aranya-proto
 ---

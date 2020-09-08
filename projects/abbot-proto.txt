@@ -1,3 +1,3 @@
 abbot-proto
-abbot-proto/abbotgopb
-abbot-proto/abbotgopb/abbotgoconst
+abbot-proto/abbot-gopb
+abbot-proto/abbot-gopb/abbot-goconst
