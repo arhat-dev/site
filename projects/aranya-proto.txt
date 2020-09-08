@@ -1,2 +1,3 @@
 aranya-proto
-aranya-proto/gopb
+aranya-proto/aranyagopb
+aranya-proto/aranyagopb/aranyagoconst
