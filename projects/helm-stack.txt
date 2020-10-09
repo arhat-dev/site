@@ -1,0 +1,4 @@
+helm-stack
+helm-stack/cmd/helm-stack
+helm-stack/pkg
+helm-stack/pkg/cmd
