@@ -1,6 +1,6 @@
 ---
 package: libext
-permalink: /libext/extdevice
+permalink: /libext/extperipheral
 layout: goget
 repo_name: libext-go
 ---

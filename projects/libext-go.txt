@@ -1,4 +1,4 @@
 libext
 libext/codecjson
 libext/codecpb
-libext/extdevice
+libext/extperipheral
