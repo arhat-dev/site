@@ -1,6 +1,6 @@
 ---
 package: libext
-permalink: /libext/codecjson
+permalink: /libext/codec
 layout: goget
 repo_name: libext-go
 ---

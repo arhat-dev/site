@@ -1,6 +1,6 @@
 ---
 package: libext
-permalink: /libext/codecpb
+permalink: /libext/server
 layout: goget
 repo_name: libext-go
 ---

@@ -1,7 +1,9 @@
 pkg
 pkg/backoff
 pkg/confhelper
+pkg/decodehelper
 pkg/encodehelper
+pkg/envhelper
 pkg/exechelper
 pkg/hashhelper
 pkg/iohelper
@@ -10,4 +12,5 @@ pkg/log
 pkg/patchhelper
 pkg/queue
 pkg/reconcile
+pkg/textquery
 pkg/wellknownerrors
