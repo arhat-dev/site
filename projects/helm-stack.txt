@@ -1,4 +1,6 @@
 helm-stack
 helm-stack/cmd/helm-stack
-helm-stack/pkg
 helm-stack/pkg/cmd
+helm-stack/pkg/conf
+helm-stack/pkg/constant
+helm-stack/pkg/version
