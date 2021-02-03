@@ -1,0 +1,3 @@
+bitwardenapigo
+bitwardenapigo/bwinternal
+bitwardenapigo/bwpublic
