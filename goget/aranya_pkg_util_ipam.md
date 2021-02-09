@@ -1,6 +1,6 @@
 ---
 package: aranya
-permalink: /aranya/cmd/aranya/pkg
+permalink: /aranya/pkg/util/ipam
 layout: goget
 repo_name: aranya
 ---

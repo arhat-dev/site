@@ -1,6 +1,6 @@
 ---
 package: aranya
-permalink: /aranya/pkg/util/loguitl
+permalink: /aranya/pkg/controller/aranya
 layout: goget
 repo_name: aranya
 ---
