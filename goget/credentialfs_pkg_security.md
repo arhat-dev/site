@@ -1,6 +1,6 @@
 ---
 package: credentialfs
-permalink: /credentialfs/pkg/auth
+permalink: /credentialfs/pkg/security
 layout: goget
 repo_name: credentialfs
 ---
