@@ -4,3 +4,6 @@ layouts_dir: layouts
 url: https://arhat.dev
 plugins:
   - jekyll-sitemap
+
+include:
+  - .well-known
