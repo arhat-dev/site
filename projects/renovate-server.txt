@@ -1,0 +1,14 @@
+renovate-server
+renovate-server/cmd
+renovate-server/cmd/renovate-server
+renovate-server/pkg
+renovate-server/pkg/cmd
+renovate-server/pkg/conf
+renovate-server/pkg/constant
+renovate-server/pkg/controller
+renovate-server/pkg/executor
+renovate-server/pkg/github
+renovate-server/pkg/gitlab
+renovate-server/pkg/types
+renovate-server/pkg/util
+renovate-server/pkg/version
